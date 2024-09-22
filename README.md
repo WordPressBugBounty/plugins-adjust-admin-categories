@@ -1,0 +1,1 @@
+# plugins-adjust-admin-categories
